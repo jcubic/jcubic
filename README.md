@@ -1,4 +1,4 @@
-![Jakub T. Jankiewicz ASCII banner](https://github.com/jcubic/lips/blob/master/assets/banner.svg?raw=true)
+![Jakub T. Jankiewicz ASCII banner](https://github.com/jcubic/jcubic/blob/master/assets/banner.svg?raw=true)
 
 <!--
 **jcubic/jcubic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
