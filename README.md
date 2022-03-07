@@ -2,7 +2,8 @@
 ![jcubic GitHub statistics](https://github-readme-stats.vercel.app/api?username=jcubic&show_icons=true&theme=dark)
 
 I'm Jakub T. Jankiewicz and I'm Web Developer from Poland.<br/>
-You can see my [Resume (in Polish)](https://github.com/jcubic/cv/blob/master/jakub-jankiewicz-cv.pdf)
+You can see my [Resume (in Polish)](https://github.com/jcubic/cv/blob/master/jakub-jankiewicz-cv.pdf)<br/>
+And my [Personal Website](https://jakub.jankiewicz.org/) and my Polish [blog Głównie JavaScript](https://jcubic.pl).
 
 <!--
 **jcubic/jcubic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
