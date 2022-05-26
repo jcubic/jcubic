@@ -1,6 +1,10 @@
 ![Jakub T. Jankiewicz ASCII banner](https://github.com/jcubic/jcubic/blob/master/assets/banner.svg?raw=true)
 ![jcubic GitHub statistics](https://github-readme-stats.vercel.app/api?username=jcubic&show_icons=true&theme=dark)
 
+<a href="http://stackoverflow.com/users/387194/jcubic" title="profile for jcubic at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+<img src="https://stackoverflow.com/users/flair/387194.png" width="208" height="58" alt="profile for jcubic at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</a>
+
 I'm Jakub T. Jankiewicz and I'm Web Developer from Poland.<br/>
 You can see my Resume [English](https://github.com/jcubic/cv/blob/master/jakub-jankiewicz-cv-en.pdf) and [Polish](https://github.com/jcubic/cv/blob/master/jakub-jankiewicz-cv-pl.pdf)<br/>
 And my [Personal Website](https://jakub.jankiewicz.org/) and my Polish [blog Głównie JavaScript](https://jcubic.pl).
