@@ -1,5 +1,8 @@
 ![Jakub T. Jankiewicz ASCII banner](https://github.com/jcubic/jcubic/blob/master/assets/banner.svg?raw=true)
+
 ![jcubic GitHub statistics](https://github-readme-stats.vercel.app/api?username=jcubic&show_icons=true&theme=dark)
+
+![jcubic Language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=jcubic&hide=c,lua,html&layout=compact&theme=dark)
 
 <a href="http://stackoverflow.com/users/387194/jcubic" title="profile for jcubic at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 <img src="https://stackoverflow.com/users/flair/387194.png" width="208" height="58" alt="profile for jcubic at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
