@@ -4,9 +4,9 @@ I'm Jakub T. Jankiewicz and I'm Web Developer from Poland. I work for [Roche](ht
 
 ## About me
 * I'm learning more about ReactJS and want to learn about NextJS and GraphQL.
-* I'm in a process of building [SNApp](https://github.com/jcubic/snapp) in ReactJS and plan to work on [Snippit](https://snippit.dev/) project.
-* I love to share my knowledge by [writing technical articles](https://jakub.jankiewicz.org/writing.php) and answer questions on sites like StackOverflow and on Social Media.
-* I plan to become a mentor, so I would love to have opportunity to become one in more formal way as part of my job.
+* I'm in a process of building [SNApp](https://github.com/jcubic/snapp) in ReactJS+TypeScript and plan to work on [Snippit](https://snippit.dev/) project.
+* I love to share my knowledge by [writing technical articles](https://jakub.jankiewicz.org/writing.php) and answering questions on sites like StackOverflow and on Social Media.
+* I want to be a mentor, so I would love to have opportunity to become one in more formal way.
 * I'm preparing the next version of my intro to programming live course that I will put in an auction for [Great Orchestra of Christmas Charity](https://en.wikipedia.org/wiki/Great_Orchestra_of_Christmas_Charity).
 
 ## Tech stack
