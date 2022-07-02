@@ -9,6 +9,13 @@ I'm Jakub T. Jankiewicz and I'm Web Developer from Poland. I work for [Roche](ht
 * I plan to become a mentor, so I would love to have opportunity to become one in more formal way as part of my job.
 * I'm preparing the next version of my intro to programming live course that I will put in an auction for [Great Orchestra of Christmas Charity](https://en.wikipedia.org/wiki/Great_Orchestra_of_Christmas_Charity).
 
+## Tech stack
+I work with:<br/>
+[![JavaScript, TypeScript, HTML, CSS, jQuery, React](https://skillicons.dev/icons?i=js,typescript,html,css,jquery,react)](https://skillicons.dev)
+
+I also know:<br/>
+[![NodeJS, Python, PHP, Clojure, R, Ruby](https://skillicons.dev/icons?i=nodejs,python,php,clojure,r,ruby)](https://skillicons.dev)
+
 ## Paid Support
 As you can see in my profile I have a few Open Source project and offer [Paid Support](https://support.jcubic.pl/). I can create Web-Based Terminal for your website if you can't do that on your own. It will be based on my Open Source project [jQuery Terminal](https://terminal.jcubic.pl/), and may use my [Gaiman Programming Language](https://github.com/jcubic/gaiman).
 
