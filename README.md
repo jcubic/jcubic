@@ -11,10 +11,10 @@ I'm Jakub T. Jankiewicz and I'm Web Developer from Poland. I work for [Roche](ht
 
 ## Tech stack
 I work with:<br/>
-[![JavaScript, TypeScript, HTML, CSS, jQuery, React](https://skillicons.dev/icons?i=js,typescript,html,css,jquery,react)](https://skillicons.dev)
+[![JavaScript, TypeScript, HTML, CSS, React, Redux, RegExp, Web Workers, jQuery, Markdown, Emotion, jest, GNU Emacs, Linux, Bash, Git, Vite, Webpack, Docker, MySQL, SQLite, Firebase, Next, GitHub, Vercel, Heroku, CodePen](https://skillicons.dev/icons?i=js,typescript,html,css,svg,react,redux,regex,workers,jquery,md,emotion,jest,emacs,linux,bash,git,vite,webpack,docker,mysql,sqlite,firebase,next,github,vercel,heroku,codepen&perline=7)](https://skillicons.dev)
 
 I also know:<br/>
-[![NodeJS, Python, PHP, Clojure, R, Ruby](https://skillicons.dev/icons?i=nodejs,python,php,clojure,r,ruby)](https://skillicons.dev)
+[![NodeJS, Python, PHP, Clojure, R, Ruby](https://skillicons.dev/icons?i=nodejs,python,php,clojure,r,ruby,sass)](https://skillicons.dev)
 
 ## Paid Support
 As you can see in my profile I have a few Open Source project and offer [Paid Support](https://support.jcubic.pl/). I can create Web-Based Terminal for your website if you can't do that on your own. It will be based on my Open Source project [jQuery Terminal](https://terminal.jcubic.pl/), and may use my [Gaiman Programming Language](https://github.com/jcubic/gaiman).
