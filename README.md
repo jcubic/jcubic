@@ -3,7 +3,7 @@
 I'm Jakub T. Jankiewicz and I'm Web Developer from Poland. I work for [Roche](https://www.roche.com/) via [ASTEK Polska](https://astek.pl/) where I currently working on ReactJS+TypeScript project.
 
 ## About me
-* I'm learning more about ReactJS and want to learn about NextJS and GraphQL.
+* I'm JavaScript expert and currently mastering ReactJS and TypeScript. I plan to learn NextJS and GraphQL.
 * I'm in a process of building [SNApp](https://github.com/jcubic/snapp) in ReactJS+TypeScript and plan to work on [Snippit](https://snippit.dev/) project.
 * I love to share my knowledge by [writing technical articles](https://jakub.jankiewicz.org/writing.php) and answering questions on sites like StackOverflow and on Social Media. I'm also learning how to be good mentor.
 * I want to be a mentor, so I would love to have opportunity to become one in more formal way.
