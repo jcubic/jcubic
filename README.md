@@ -5,9 +5,10 @@ I'm Jakub T. Jankiewicz and I'm Web Developer from Poland. I work for [Roche](ht
 ## About me
 * I'm learning more about ReactJS and want to learn about NextJS and GraphQL.
 * I'm in a process of building [SNApp](https://github.com/jcubic/snapp) in ReactJS+TypeScript and plan to work on [Snippit](https://snippit.dev/) project.
-* I love to share my knowledge by [writing technical articles](https://jakub.jankiewicz.org/writing.php) and answering questions on sites like StackOverflow and on Social Media.
+* I love to share my knowledge by [writing technical articles](https://jakub.jankiewicz.org/writing.php) and answering questions on sites like StackOverflow and on Social Media. I'm also learning how to be good mentor.
 * I want to be a mentor, so I would love to have opportunity to become one in more formal way.
-* I'm preparing the next version of my intro to programming live course that I will put in an auction for [Great Orchestra of Christmas Charity](https://en.wikipedia.org/wiki/Great_Orchestra_of_Christmas_Charity).
+* I'm preparing the next version of my intro to programming live course that I will put in an auction for [Great Orchestra of Christmas Charity](https://en.wikipedia.org/wiki/Great_Orchestra_of_Christmas_Charity). The course will be using my coding platform [Koduj](https://github.com/jcubic/koduj), the MVP was used on first edition of the course.
+* [The Koduj platform](https://github.com/jcubic/koduj) will also be used for my math and programming book that I've started to write. I've put it aside for a while but creating the live programming course made me create a coding platform that I was planning to create for a book.
 
 ## Tech stack
 I work with:<br/>
