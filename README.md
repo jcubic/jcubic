@@ -12,6 +12,15 @@ I'm Jakub T. Jankiewicz and I'm Web Developer from Poland. I work for [Roche](ht
 * While I'm prepering 2nd edition of my intro to programming course I plan to publish [the Curriculum](https://github.com/jcubic/koduj-curriculum) on Creative Commons license.
 * Another plan that I have is to rewrite my popular jquery.terminal library into TypeScript with ES Modules and without jQuery dependency. It will be called [jQTerminal](https://github.com/jcubic/jQTerminal), and market as framework from the beginning.
 
+## Open Source
+My most known Open Source library is [jQuery Terminal](https://terminal.jcubic.pl/), it has long history and was started in about 2010. I've started working on [version 3.0](https://github.com/jQTerminal/jQTerminal) recently. I've plan it to be complete rewrite in TypeScript without dependency on jQuery. I've planned to use something modern like [Cash](https://github.com/fabiospampinato/cash) with similar API.
+
+If I will get accepted it will allow me to actually focus on writing new version of the library. Also write better documentation and visual tests that are missing.
+
+I also have other smaller projects like LIPS Scheme, that would benefit from me working full time on Open Source. I'm also actively promoting Open Source projects using SEO to attract more users, I've even written an article that show how to do that on your own.
+
+I have list of articles that I want to write that will showcase my Open Source projects, for instance on FreeCodeCamp, where I've written only one article so far.
+
 ## Tech stack
 I work with:<br/>
 [![JavaScript, TypeScript, HTML, CSS, React, Redux, RegExp, Web Workers, jQuery, Markdown, Emotion, jest, GNU Emacs, Linux, Bash, Git, Vite, Webpack, Docker, MySQL, SQLite, Firebase, Next, GitHub, Vercel, Heroku, CodePen](https://skillicons.dev/icons?i=js,typescript,html,css,svg,react,redux,regex,workers,jquery,md,emotion,jest,emacs,linux,bash,git,vite,webpack,docker,mysql,sqlite,firebase,next,github,vercel,heroku,codepen&perline=7)](https://skillicons.dev)
