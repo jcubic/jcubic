@@ -19,7 +19,7 @@ I'm also actively promoting Open Source projects using SEO to attract more users
 
 [How to Promote your Open Source Project with SEO](https://itnext.io/seo-for-open-source-projects-1a6b17ffeb8b)
 
-I have list of articles that I want to write that will showcase my Open Source projects, for instance on FreeCodeCamp, where I've written only one article so far.
+I have a list of articles that I want to write that will showcase my Open Source projects, for instance on FreeCodeCamp, where I've written only one article so far.
 
 [CSRF Protection Problem and How to Fix it](https://www.freecodecamp.org/news/csrf-protection-problem-and-how-to-fix-it/)
 
