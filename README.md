@@ -40,3 +40,10 @@ As you can see in my profile I have a few Open Source project and offer [Paid Su
 <a href="http://stackoverflow.com/users/387194/jcubic" title="profile for jcubic at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 <img src="https://stackoverflow.com/users/flair/387194.png" width="208" height="58" alt="profile for jcubic at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
+
+## Software I use
+
+![Inkscape](https://img.shields.io/badge/Inkscape-0078d7.svg?style=for-the-badge&logo=inkscape&logoColor=white)
+![GNU Emacs](https://img.shields.io/badge/GNU%20Emacs-A23C9A.svg?style=for-the-badge&logo=gnu-emacs&logoColor=white)
+![GNU/Linux](https://img.shields.io/badge/GNU%2fLinux-404040.svg?style=for-the-badge&logo=linux&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-C45E00.svg?style=for-the-badge&logo=git&logoColor=white)
