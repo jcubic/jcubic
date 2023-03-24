@@ -15,6 +15,8 @@ I'm Jakub T. Jankiewicz and I'm Web Developer from Poland. I work for [Roche](ht
 ## Open Source
 My most known Open Source library is [jQuery Terminal](https://terminal.jcubic.pl/), it has long history and was started in about 2010. I've started working on [version 3.0](https://github.com/jQTerminal/jQTerminal) recently. I've plan it to be complete rewrite in TypeScript without dependency on jQuery. I've plan to use something modern like [Cash](https://github.com/fabiospampinato/cash) with similar API. I also need to write better documentation and visual tests that are missing.
 
+I'm an Active Maintainer of popular library [Isomorphic-git](https://isomorphic-git.org/).
+
 I'm also actively promoting Open Source projects using SEO to attract more users, I've even written an article that show how to do that on your own.
 
 [How to Promote your Open Source Project with SEO](https://itnext.io/seo-for-open-source-projects-1a6b17ffeb8b)
