@@ -9,7 +9,7 @@ I'm Jakub T. Jankiewicz and I'm Web Developer from Poland. I work for [Roche](ht
 * I want to be a mentor, so I would love to have opportunity to become one in more formal way.
 * I'm preparing the next version of my [intro to programming live course](https://koduj.org) that I will put in an auction for [Great Orchestra of Christmas Charity](https://en.wikipedia.org/wiki/Great_Orchestra_of_Christmas_Charity). The course will be using my coding platform [Koduj](https://github.com/jcubic/koduj), the MVP was used on first edition of the course.
 * [The Koduj platform](https://github.com/jcubic/koduj) will also be used for my math and programming book that I've started to write. I've put it aside for a while but creating the live programming course made me create a coding platform that I was planning to create for the book.
-* While I'm prepering 2nd edition of my intro to programming course I plan to publish [the Curriculum](https://github.com/jcubic/koduj-curriculum) on Creative Commons license. Currently working on Quiz app, it's work in progress and I called it's [Quizerach](https://github.com/jcubic/quizerach).
+* While I'm prepering 2nd edition of my intro to programming course I plan to publish [the Curriculum](https://github.com/jcubic/koduj-curriculum) on Creative Commons license. Currently working on Quiz app (**NodeJS**, **Express**, **TypeScript**, and **Prisma**), it's work in progress and I called it's [Quizerach](https://github.com/jcubic/quizerach).
 * Another plan that I have is to rewrite my popular jquery.terminal library into TypeScript with ES Modules and without jQuery dependency. It will be called [jQTerminal](https://github.com/jcubic/jQTerminal), and market as framework from the beginning.
 
 ## Open Source
