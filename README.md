@@ -1,6 +1,6 @@
 ![Jakub T. Jankiewicz ASCII banner](https://github.com/jcubic/jcubic/blob/master/assets/banner.svg?raw=true)
 
-I'm Jakub T. Jankiewicz and I'm Web Developer from Poland. I work for [Roche](https://www.roche.com/) via [ASTEK Polska](https://astek.pl/) where I currently working on ReactJS+TypeScript project.
+I'm Jakub T. Jankiewicz and I'm Web Developer from Poland.
 
 ## About me
 * I'm JavaScript expert and currently mastering ReactJS, TypeScript, and GraphQL. I plan also to learn NextJS.
