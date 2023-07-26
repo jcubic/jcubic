@@ -3,21 +3,22 @@
 I'm Jakub T. Jankiewicz and I'm Web Developer from Poland.
 
 ## About me
-* I'm JavaScript expert and currently mastering ReactJS, TypeScript, and GraphQL. I plan also to learn NextJS.
+* I'm a JavaScript expert and currently mastering ReactJS, ReactNative, TypeScript, and GraphQL. I plan also to learn NextJS.
 * <s>I'm in a process of building [SNApp](https://github.com/jcubic/snapp) in ReactJS+TypeScript and plan to work on [Snippit](https://snippit.dev/) project.</s>
-* I love to share my knowledge by [writing technical articles](https://jakub.jankiewicz.org/writing.php) and answering questions on sites like [StackOverflow](https://stackoverflow.com/users/387194/jcubic) and on Social Media. I'm also learning how to be good mentor.
-* I would love to have opportunity to become a mentor in more formal way.
-* I'm preparing the next version of my [intro to programming live course](https://koduj.org) that I will put in an auction for [Great Orchestra of Christmas Charity](https://en.wikipedia.org/wiki/Great_Orchestra_of_Christmas_Charity). The course will be using my coding platform [Koduj](https://github.com/jcubic/koduj), the MVP was used on first edition of the course.
+* I love to share my knowledge by [writing technical articles](https://jakub.jankiewicz.org/writing.php) and answering questions on sites like [StackOverflow](https://stackoverflow.com/users/387194/jcubic) and on Social Media. I'm also learning how to be a good mentor.
+* I would love to have the opportunity to become a mentor in a more formal way.
+* I'm preparing the next version of my [intro to programming live course](https://koduj.org) that I will put in an auction for [Great Orchestra of Christmas Charity](https://en.wikipedia.org/wiki/Great_Orchestra_of_Christmas_Charity). The course will be using my coding platform [Koduj](https://github.com/jcubic/koduj), the MVP was used on the first edition of the course.
 * [The Koduj platform](https://github.com/jcubic/koduj) will also be used for my math and programming book that I've started to write. I've put it aside for a while but creating the live programming course made me create a coding platform that I was planning to create for the book.
-* While I'm prepering 2nd edition of my intro to programming course I plan to publish [the Curriculum](https://github.com/jcubic/koduj-curriculum) on Creative Commons license. Currently working on Quiz app (**NodeJS**, **Express**, **TypeScript**, and **Prisma**), it's work in progress and I called it's [Quizerach](https://github.com/jcubic/quizerach).
-* Another plan that I have is to rewrite my popular jquery.terminal library into TypeScript with ES Modules and without jQuery dependency. It will be called [jQTerminal](https://github.com/jcubic/jQTerminal), and market as framework from the beginning.
+* While I'm prepping the 2nd edition of my Intro to Programming course I plan to publish [the Curriculum](https://github.com/jcubic/koduj-curriculum) on Creative Commons license. Currently working on Quiz app (**NodeJS**, **Express**, **TypeScript**, and **Prisma**), it's a work in progress and I called it [Quizerach](https://github.com/jcubic/quizerach).
+* Another plan that I have is to rewrite my popular jquery.terminal library into TypeScript with ES Modules and without jQuery dependency. It will be called [jQTerminal](https://github.com/jcubic/jQTerminal), and the market as a framework from the beginning.
+* I have a Polish blog called ["Głównie JavaScript" (en. Mostly JavaScript)](https://jcubic.pl/), but I'm not active there anymore. Recently I started [a new personal blog](https://jcu.bi/blog) created using [Eleventy](https://www.11ty.dev/). I plan to be more active there. I will write programming articles but also about other topics that interest me.
 
 ## Open Source
-My most known Open Source library is [jQuery Terminal](https://terminal.jcubic.pl/), it has long history and was started in about 2010. I've started working on [version 3.0](https://github.com/jQTerminal/jQTerminal) recently. I've plan it to be complete rewrite in TypeScript without dependency on jQuery. I've plan to use something modern like [Cash](https://github.com/fabiospampinato/cash) with similar API. I also need to write better documentation and visual tests that are missing.
+My most known Open Source library is [jQuery Terminal](https://terminal.jcubic.pl/), it has a long history and was started in about 2010. I've started working on [version 3.0](https://github.com/jQTerminal/jQTerminal) recently. I've planned it to be a complete rewrite in TypeScript without dependency on jQuery. I plan to use something modern like [Cash](https://github.com/fabiospampinato/cash) with a similar API. I also need to write better documentation and visual tests that are missing.
 
-I'm an Active Maintainer of popular library [Isomorphic-git](https://isomorphic-git.org/).
+I'm an Active Maintainer of the popular library [Isomorphic-git](https://isomorphic-git.org/).
 
-I'm also actively promoting Open Source projects using SEO to attract more users, I've even written an article that show how to do that on your own.
+I'm also actively promoting Open Source projects using SEO to attract more users, I've even written an article that shows how to do that on your own.
 
 [How to Promote your Open Source Project with SEO](https://itnext.io/seo-for-open-source-projects-1a6b17ffeb8b)
 
