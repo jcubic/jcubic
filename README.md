@@ -4,12 +4,12 @@ I'm Jakub T. Jankiewicz and I'm a Web Developer from Poland, right now **looking
 
 ## About me
 * I'm a JavaScript expert and currently mastering ReactJS, ReactNative, TypeScript, and GraphQL. I plan also to learn NextJS.
-* I'm in the process of building [SNApp](https://github.com/jcubic/snapp) in ReactJS+TypeScript with mobile version in React Native. <s>and plan to work on [Snippit](https://snippit.dev/) project.</s>
+* I'm in the process of building [SNApp](https://github.com/quick-SNApp) in ReactJS+TypeScript with [mobile version in React Native](https://github.com/quick-SNApp/mobile).
 * I love to share my knowledge by [writing technical articles](https://jakub.jankiewicz.org/writing.php) and answering questions on sites like [StackOverflow](https://stackoverflow.com/users/387194/jcubic) and on Social Media. I'm also learning how to be a good mentor.
 * I would love to have the opportunity to become a mentor in a more formal way.
 * I'm preparing the next version of my [intro to programming live course](https://koduj.org) that I will put in an auction for [Great Orchestra of Christmas Charity](https://en.wikipedia.org/wiki/Great_Orchestra_of_Christmas_Charity). The course will be using my coding platform [Koduj](https://github.com/jcubic/koduj), the MVP was used on the first edition of the course.
 * [The Koduj platform](https://github.com/jcubic/koduj) will also be used for my math and programming book that I've started to write. I've put it aside for a while but creating the live programming course made me create a coding platform that I was planning to create for the book.
-* While I'm prepping the 2nd edition of my Intro to Programming course I plan to publish [the Curriculum](https://github.com/jcubic/koduj-curriculum) on Creative Commons license. Currently working on Quiz app (**NodeJS**, **Express**, **TypeScript**, and **Prisma**), it's a work in progress and I called it [Quizerach](https://github.com/jcubic/quizerach).
+* While I'm prepping the 2nd edition of my Intro to Programming course I plan to publish [the Curriculum](https://github.com/jcubic/koduj-curriculum) on Creative Commons license. <s>Currently working on Quiz app (**NodeJS**, **Express**, **TypeScript**, and **Prisma**), it's a work in progress and I called it [Quizerach](https://github.com/jcubic/quizerach)</s>.
 * Another plan that I have is to rewrite my popular jquery.terminal library into TypeScript with ES Modules and without jQuery dependency. It will be called [jQTerminal](https://github.com/jcubic/jQTerminal), and the market as a framework from the beginning.
 * I have a Polish blog called ["Głównie JavaScript" (en. Mostly JavaScript)](https://jcubic.pl/), but I'm not active there anymore. Recently I started [a new personal blog](https://jcu.bi/blog) created using [Eleventy](https://www.11ty.dev/). I plan to be more active there. I will write programming articles but also about other topics that interest me.
 
