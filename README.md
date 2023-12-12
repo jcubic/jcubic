@@ -4,7 +4,7 @@ I'm Jakub T. Jankiewicz and I'm a Web Developer from Poland, right now **looking
 
 ## About me
 * I'm a JavaScript expert and currently mastering ReactJS, ReactNative, TypeScript, and GraphQL. I plan also to learn NextJS.
-* <s>I'm in a process of building [SNApp](https://github.com/jcubic/snapp) in ReactJS+TypeScript and plan to work on [Snippit](https://snippit.dev/) project.</s>
+* I'm in the process of building [SNApp](https://github.com/jcubic/snapp) in ReactJS+TypeScript with mobile version in React Native. <s>and plan to work on [Snippit](https://snippit.dev/) project.</s>
 * I love to share my knowledge by [writing technical articles](https://jakub.jankiewicz.org/writing.php) and answering questions on sites like [StackOverflow](https://stackoverflow.com/users/387194/jcubic) and on Social Media. I'm also learning how to be a good mentor.
 * I would love to have the opportunity to become a mentor in a more formal way.
 * I'm preparing the next version of my [intro to programming live course](https://koduj.org) that I will put in an auction for [Great Orchestra of Christmas Charity](https://en.wikipedia.org/wiki/Great_Orchestra_of_Christmas_Charity). The course will be using my coding platform [Koduj](https://github.com/jcubic/koduj), the MVP was used on the first edition of the course.
