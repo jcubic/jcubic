@@ -34,7 +34,7 @@ I also know:<br/>
 [![NodeJS, Python, PHP, Clojure, R, Ruby](https://skillicons.dev/icons?i=nodejs,python,php,clojure,r,ruby,sass)](https://skillicons.dev)
 
 ## Tech Talk
-In 2023 I've presented my Open Source project "LIPS Scheme" at FOSSDEM. Here is my [Speaker profile](https://fosdem.org/2023/schedule/speaker/jakub_t_jankiewicz/) and my prentation [LIPS Scheme: Powerful introspection and extensibility](https://fosdem.org/2023/schedule/event/lipsscheme/).
+In 2023 I presented my Open Source project "LIPS Scheme" at FOSSDEM. Here is my [Speaker profile](https://fosdem.org/2023/schedule/speaker/jakub_t_jankiewicz/) and my prentation [LIPS Scheme: Powerful introspection and extensibility](https://fosdem.org/2023/schedule/event/lipsscheme/).
 
 ## Paid Support
 As you can see in my profile I have a few Open Source project and offer [Paid Support](https://support.jcubic.pl/). I can create Web-Based Terminal for your website if you can't do that on your own. It will be based on my Open Source project [jQuery Terminal](https://terminal.jcubic.pl/), and may use my [Gaiman Programming Language](https://github.com/jcubic/gaiman).
@@ -59,3 +59,5 @@ As you can see in my profile I have a few Open Source project and offer [Paid Su
 * [Top GitHub Users By Total Contributions in Poland](https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/poland.md)
 * [Top GitHub Users By Public Contributions in Poland](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/poland.md)
 
+## GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jcubic&theme=dark)
