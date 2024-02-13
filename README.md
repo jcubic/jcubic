@@ -4,13 +4,14 @@ I'm Jakub T. Jankiewicz and I'm a Web Developer from Poland, right now **looking
 
 ## About me
 * I'm a JavaScript expert and currently mastering ReactJS, ReactNative, TypeScript, and GraphQL. I plan also to learn NextJS.
-* I'm in the process of building [SNApp](https://github.com/SNApp-notes) in ReactJS+TypeScript with [mobile version in React Native](https://github.com/SNApp-notes/mobile).
+* Right now I'm focusing on [LIPS Scheme](https://lips.js.org/), powerful Lisp interpreter written in JavaScript.
+* ~~I'm in the process of building [SNApp](https://github.com/SNApp-notes) in ReactJS+TypeScript with [mobile version in React Native](https://github.com/SNApp-notes/mobile).~~
 * I love to share my knowledge by [writing technical articles](https://jakub.jankiewicz.org/writing.php) and answering questions on sites like [StackOverflow](https://stackoverflow.com/users/387194/jcubic) and on Social Media. I'm also learning how to be a good mentor.
-* I would love to have the opportunity to become a mentor in a more formal way.
+* I would love to have the opportunity to become a mentor more formally.
 * I'm preparing the next version of my [intro to programming live course](https://koduj.org) that I will put in an auction for [Great Orchestra of Christmas Charity](https://en.wikipedia.org/wiki/Great_Orchestra_of_Christmas_Charity). The course will be using my coding platform [Koduj](https://github.com/jcubic/koduj), the MVP was used on the first edition of the course.
 * [The Koduj platform](https://github.com/jcubic/koduj) will also be used for my math and programming book that I've started to write. I've put it aside for a while but creating the live programming course made me create a coding platform that I was planning to create for the book.
 * While I'm prepping the 2nd edition of my Intro to Programming course I plan to publish [the Curriculum](https://github.com/jcubic/koduj-curriculum) on Creative Commons license. <s>Currently working on Quiz app (**NodeJS**, **Express**, **TypeScript**, and **Prisma**), it's a work in progress and I called it [Quizerach](https://github.com/jcubic/quizerach)</s>.
-* Another plan that I have is to rewrite my popular jquery.terminal library into TypeScript with ES Modules and without jQuery dependency. It will be called [Pure Terminal](https://github.com/pure-terminal/pure-terminal), and the market as a framework from the beginning.
+* Another plan that I have is to rewrite my popular jQuery Terminal library into TypeScript with ES Modules and without jQuery dependency. It will be called [Pure Terminal](https://github.com/pure-terminal/pure-terminal), and the market as a framework from the beginning.
 * I have a Polish blog called ["Głównie JavaScript" (en. Mostly JavaScript)](https://jcubic.pl/), but I'm not active there anymore. Recently I started [a new personal blog](https://jcu.bi/blog) created using [Eleventy](https://www.11ty.dev/). I plan to be more active there. I will write programming articles but also about other topics that interest me.
 
 ## Open Source
@@ -34,10 +35,10 @@ I also know:<br/>
 [![NodeJS, Python, PHP, Clojure, R, Ruby](https://skillicons.dev/icons?i=nodejs,python,php,clojure,r,ruby,sass)](https://skillicons.dev)
 
 ## Tech Talk
-In 2023 I presented my Open Source project "LIPS Scheme" at FOSSDEM. Here is my [Speaker profile](https://fosdem.org/2023/schedule/speaker/jakub_t_jankiewicz/) and my prentation [LIPS Scheme: Powerful introspection and extensibility](https://fosdem.org/2023/schedule/event/lipsscheme/).
+In 2023 I presented my Open Source project "LIPS Scheme" at FOSSDEM. Here is my [Speaker profile](https://fosdem.org/2023/schedule/speaker/jakub_t_jankiewicz/) and my presentation [LIPS Scheme: Powerful introspection and extensibility](https://fosdem.org/2023/schedule/event/lipsscheme/).
 
 ## Paid Support
-As you can see in my profile I have a few Open Source project and offer [Paid Support](https://support.jcubic.pl/). I can create Web-Based Terminal for your website if you can't do that on your own. It will be based on my Open Source project [jQuery Terminal](https://terminal.jcubic.pl/), and may use my [Gaiman Programming Language](https://github.com/jcubic/gaiman).
+As you can see in my profile I have a few Open Source projects and offer [Paid Support](https://support.jcubic.pl/). I can create a Web-Based Terminal for your website if you can't do that on your own. It will be based on my Open Source project [jQuery Terminal](https://terminal.jcubic.pl/), and may use my [Gaiman Programming Language](https://github.com/jcubic/gaiman).
 
 ## Social Links
 
@@ -60,4 +61,5 @@ As you can see in my profile I have a few Open Source project and offer [Paid Su
 * [Top GitHub Users By Public Contributions in Poland](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/poland.md)
 
 ## GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jcubic&theme=dark)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jcubic&theme=dark"
+     alt="GitHub Streak"/>
