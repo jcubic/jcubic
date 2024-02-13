@@ -27,6 +27,19 @@ I have a list of articles that I want to write that will showcase my Open Source
 
 [CSRF Protection Problem and How to Fix it](https://www.freecodecamp.org/news/csrf-protection-problem-and-how-to-fix-it/)
 
+### Less known projects
+
+[![Tagger Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=tagger&theme=dark)](https://github.com/jcubic/tagger)
+[![Cmatrix Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=cmatrix&theme=dark)](https://github.com/jcubic/cmatrix)
+[![Clarity Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=clarity&theme=dark)](https://github.com/jcubic/clarity)
+[![Velvet Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=velvet&theme=dark)](https://github.com/jcubic/velvet)
+[![Battery Card](https://github-readme-stats.vercel.app/api/pin/?username=Genentech&repo=battery&theme=dark&show_owner=true)](https://github.com/Genentech/battery)
+[![Git Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=git&theme=dark)](https://github.com/jcubic/git)
+[![Leash Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=leash&theme=dark)](https://github.com/jcubic/leash)
+[![jsh.php Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=jsh.php&theme=dark)](https://github.com/jcubic/jsh.php)
+[![expression.php Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=expression.php&theme=dark)](https://github.com/jcubic/expression.php)
+[![Favloader Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=favloader&theme=dark&nocache=1)](https://github.com/jcubic/favloader)
+
 ## Tech stack
 I work with:<br/>
 [![JavaScript, TypeScript, HTML, CSS, React, Redux, RegExp, Web Workers, jQuery, Markdown, Emotion, jest, GNU Emacs, Linux, Bash, Git, Vite, Webpack, Docker, MySQL, SQLite, GraphQL, Prisma, Firebase, Next, GitHub, Vercel, Heroku, CodePen](https://skillicons.dev/icons?i=js,typescript,html,css,svg,react,redux,regex,workers,jquery,md,emotion,jest,emacs,linux,bash,git,vite,webpack,docker,mysql,sqlite,graphql,prisma,firebase,next,github,vercel,heroku,codepen&perline=6)](https://skillicons.dev)
