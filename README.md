@@ -30,17 +30,21 @@ I have a list of articles that I want to write that will showcase my Open Source
 ### Less known projects
 
 [![Tagger Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=tagger&theme=dark)](https://github.com/jcubic/tagger)
+[![chatGPT Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=chat-gpt&theme=dark&nocache=1)](https://github.com/jcubic/chat-gpt)
+[![Leash Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=leash&theme=dark)](https://github.com/jcubic/leash)
+[![jsh.php Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=jsh.php&theme=dark)](https://github.com/jcubic/jsh.php)
 [![Cmatrix Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=cmatrix&theme=dark)](https://github.com/jcubic/cmatrix)
 [![Clarity Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=clarity&theme=dark)](https://github.com/jcubic/clarity)
 [![Velvet Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=velvet&theme=dark)](https://github.com/jcubic/velvet)
 [![Battery Card](https://github-readme-stats.vercel.app/api/pin/?username=Genentech&repo=battery&theme=dark&show_owner=true)](https://github.com/Genentech/battery)
 [![Git Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=git&theme=dark)](https://github.com/jcubic/git)
-[![Leash Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=leash&theme=dark)](https://github.com/jcubic/leash)
-[![jsh.php Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=jsh.php&theme=dark)](https://github.com/jcubic/jsh.php)
 [![expression.php Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=expression.php&theme=dark)](https://github.com/jcubic/expression.php)
 [![Favloader Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=favloader&theme=dark&nocache=1)](https://github.com/jcubic/favloader)
 [![ASCII Canvas Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=ascii-canvas&theme=dark&nocache=1)](https://github.com/jcubic/ascii-canvas)
-[![chatGPT Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=chat-gpt&theme=dark&nocache=1)](https://github.com/jcubic/chat-gpt)
+[![Fake Linux Terminal Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=fake-linux-terminal&theme=dark&nocache=1)](https://github.com/jcubic/fake-linux-terminal)
+[![UNCP Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=uncp&theme=dark&nocache=1)](https://github.com/jcubic/uncp)
+[![Calendar Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=calendar&theme=dark&nocache=1)](https://github.com/jcubic/calendar)
+[![coverage.el Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=coverage.el&theme=dark&nocache=1)](https://github.com/jcubic/coverage.el)
 
 ## Tech stack
 I work with:<br/>
