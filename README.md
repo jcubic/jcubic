@@ -27,8 +27,13 @@ I have a list of articles that I want to write that will showcase my Open Source
 
 [CSRF Protection Problem and How to Fix it](https://www.freecodecamp.org/news/csrf-protection-problem-and-how-to-fix-it/)
 
-### Less known projects
-
+### My Open Source Work
+[![jQuery Terminal Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=jquery.terminal&theme=dark)](https://github.com/jcubic/jquery.terminal)
+[![Isomorphic-Git Card](https://github-readme-stats.vercel.app/api/pin/?username=isomorphic-git&repo=isomorphic-git&theme=dark&show_owner=true)](https://github.com/isomorphic-git/isomorphic-git)
+[![LIPS Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=lips&theme=dark&nocache=1)](https://github.com/jcubic/lips)
+[![Sysend.js Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=sysend.js&theme=dark)](https://github.com/jcubic/sysend.js)
+[![Gaiman Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=gaiman&theme=dark)](https://github.com/jcubic/gaiman)
+[![Wayne Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=wayne&theme=dark)](https://github.com/jcubic/wayne)
 [![Tagger Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=tagger&theme=dark)](https://github.com/jcubic/tagger)
 [![chatGPT Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=chat-gpt&theme=dark&nocache=1)](https://github.com/jcubic/chat-gpt)
 [![Leash Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=leash&theme=dark)](https://github.com/jcubic/leash)
