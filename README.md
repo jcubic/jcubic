@@ -39,6 +39,8 @@ I have a list of articles that I want to write that will showcase my Open Source
 [![jsh.php Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=jsh.php&theme=dark)](https://github.com/jcubic/jsh.php)
 [![expression.php Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=expression.php&theme=dark)](https://github.com/jcubic/expression.php)
 [![Favloader Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=favloader&theme=dark&nocache=1)](https://github.com/jcubic/favloader)
+[![ASCII Canvas Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=ascii-canvas&theme=dark&nocache=1)](https://github.com/jcubic/ascii-canvas)
+[![chatGPT Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=chat-gpt&theme=dark&nocache=1)](https://github.com/jcubic/chat-gpt)
 
 ## Tech stack
 I work with:<br/>
