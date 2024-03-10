@@ -40,6 +40,10 @@ I have a list of articles that I want to write that will showcase my Open Source
 [![jsh.php Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=jsh.php&theme=dark)](https://github.com/jcubic/jsh.php)
 [![Cmatrix Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=cmatrix&theme=dark)](https://github.com/jcubic/cmatrix)
 [![Clarity Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=clarity&theme=dark)](https://github.com/jcubic/clarity)
+[![jquery.filebrowser Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=jquery.filebrowser&theme=dark&nocache=1)](https://github.com/jcubic/jquery.filebrowser)
+[![jquery.splitter Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=jquery.splitter&theme=dark&nocache=4)](https://github.com/jcubic/jquery.splitter)
+[![Route.js Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=route.js&theme=dark&nocache=2)](https://github.com/jcubic/route.js)
+[![lily Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=lily&theme=dark&nocache=1)](https://github.com/jcubic/lily)
 [![Velvet Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=velvet&theme=dark)](https://github.com/jcubic/velvet)
 [![Battery Card](https://github-readme-stats.vercel.app/api/pin/?username=Genentech&repo=battery&theme=dark&show_owner=true)](https://github.com/Genentech/battery)
 [![Git Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=git&theme=dark)](https://github.com/jcubic/git)
@@ -47,9 +51,15 @@ I have a list of articles that I want to write that will showcase my Open Source
 [![Favloader Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=favloader&theme=dark&nocache=1)](https://github.com/jcubic/favloader)
 [![ASCII Canvas Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=ascii-canvas&theme=dark&nocache=1)](https://github.com/jcubic/ascii-canvas)
 [![Fake Linux Terminal Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=fake-linux-terminal&theme=dark&nocache=1)](https://github.com/jcubic/fake-linux-terminal)
-[![UNCP Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=uncp&theme=dark&nocache=1)](https://github.com/jcubic/uncp)
+[![Monadic Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=Monadic&theme=dark&nocache=1)](https://github.com/jcubic/Monadic)
 [![Calendar Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=calendar&theme=dark&nocache=1)](https://github.com/jcubic/calendar)
+[![jquery.resize Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=jquery.resize&theme=dark&nocache=1)](https://github.com/jcubic/jquery.resize)
+[![prism-cli Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=prism-cli&theme=dark&nocache=1)](https://github.com/jcubic/prism-cli)
+[![Yapp Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=yapp&theme=dark&nocache=1)](https://github.com/jcubic/yapp)
+[![WebRTC share Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=webrtc-share&theme=dark&nocache=1)](https://github.com/jcubic/webrtc-share)
 [![coverage.el Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=coverage.el&theme=dark&nocache=1)](https://github.com/jcubic/coverage.el)
+[![JSON-RPC Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=json-rpc&theme=dark&nocache=1)](https://github.com/jcubic/json-rpc)
+[![ANSIDec Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=ansidec&theme=dark&nocache=1)](https://github.com/jcubic/ansidec)
 
 ## Tech stack
 I work with:<br/>
