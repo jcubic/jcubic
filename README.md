@@ -95,5 +95,5 @@ As you can see in my profile I have a few Open Source projects and offer [Paid S
 * [Top GitHub Users By Public Contributions in Poland](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/poland.md)
 
 ## GitHub Streak
-<img src="https://streak-stats.demolab.com/?user=jcubic&theme=dark"
+<img src="https://streak-stats.demolab.com/?user=jcubic&theme=dark&type=png"
      alt="GitHub Streak"/>
