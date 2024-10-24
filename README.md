@@ -1,4 +1,4 @@
-![Jakub T. Jankiewicz ASCII banner](https://github.com/jcubic/jcubic/blob/master/assets/banner.svg?raw=true)
+![Jakub T. Jankiewicz ASCII banner](https://raw.githubusercontent.com/jcubic/jcubic/refs/heads/master/assets/banner.svg)
 
 I'm Jakub T. Jankiewicz and I'm a Web Developer from Poland, right now **looking for a remote job** with ReactJS/React Native and TypeScript.
 
