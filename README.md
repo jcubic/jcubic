@@ -4,14 +4,8 @@ I'm Jakub T. Jankiewicz and I'm a Web Developer from Poland, right now **looking
 
 ## About me
 * I'm a JavaScript expert and currently mastering ReactJS, ReactNative, TypeScript, and GraphQL. I plan also to learn NextJS.
-* Right now I'm focusing on [LIPS Scheme](https://lips.js.org/), powerful Lisp interpreter written in JavaScript.
-* ~~I'm in the process of building [SNApp](https://github.com/SNApp-notes) in ReactJS+TypeScript with [mobile version in React Native](https://github.com/SNApp-notes/mobile).~~
+* I'm in a process of writing new [website and documentation for my project jQuery Terminal](https://github.com/jcubic/jquery.terminal-docs/), the website use React framework [Docusaurus](https://docusaurus.io).
 * I love to share my knowledge by [writing technical articles](https://jakub.jankiewicz.org/writing.php) and answering questions on sites like [StackOverflow](https://stackoverflow.com/users/387194/jcubic) and on Social Media. I'm also learning how to be a good mentor.
-* I would love to have the opportunity to become a mentor more formally.
-* I'm preparing the next version of my [intro to programming live course](https://koduj.org) that I will put in an auction for [Great Orchestra of Christmas Charity](https://en.wikipedia.org/wiki/Great_Orchestra_of_Christmas_Charity). The course will be using my coding platform [Koduj](https://github.com/jcubic/koduj), the MVP was used on the first edition of the course.
-* [The Koduj platform](https://github.com/jcubic/koduj) will also be used for my math and programming book that I've started to write. I've put it aside for a while but creating the live programming course made me create a coding platform that I was planning to create for the book.
-* While I'm prepping the 2nd edition of my Intro to Programming course I plan to publish [the Curriculum](https://github.com/jcubic/koduj-curriculum) on Creative Commons license. <s>Currently working on Quiz app (**NodeJS**, **Express**, **TypeScript**, and **Prisma**), it's a work in progress and I called it [Quizerach](https://github.com/jcubic/quizerach)</s>.
-* Another plan that I have is to rewrite my popular jQuery Terminal library into TypeScript with ES Modules and without jQuery dependency. It will be called [Pure Terminal](https://github.com/pure-terminal/pure-terminal), and the market as a framework from the beginning.
 * I have a Polish blog called ["Głównie JavaScript" (en. Mostly JavaScript)](https://jcubic.pl/), but I'm not active there anymore. Recently I started [a new personal blog](https://jcu.bi/blog) created using [Eleventy](https://www.11ty.dev/). I plan to be more active there. I will write programming articles but also about other topics that interest me.
 
 ## Open Source
@@ -26,40 +20,6 @@ I'm also actively promoting Open Source projects using SEO to attract more users
 I have a list of articles that I want to write that will showcase my Open Source projects, for instance on FreeCodeCamp, where I've written only one article so far.
 
 [CSRF Protection Problem and How to Fix it](https://www.freecodecamp.org/news/csrf-protection-problem-and-how-to-fix-it/)
-
-### My projects and projects I'm maintainer of
-[![jQuery Terminal Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=jquery.terminal&theme=dark)](https://github.com/jcubic/jquery.terminal)
-[![Isomorphic-Git Card](https://github-readme-stats.vercel.app/api/pin/?username=isomorphic-git&repo=isomorphic-git&theme=dark&show_owner=true)](https://github.com/isomorphic-git/isomorphic-git)
-[![LIPS Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=lips&theme=dark&nocache=1)](https://github.com/jcubic/lips)
-[![Sysend.js Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=sysend.js&theme=dark)](https://github.com/jcubic/sysend.js)
-[![Gaiman Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=gaiman&theme=dark)](https://github.com/jcubic/gaiman)
-[![Wayne Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=wayne&theme=dark)](https://github.com/jcubic/wayne)
-[![Tagger Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=tagger&theme=dark)](https://github.com/jcubic/tagger)
-[![chatGPT Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=chat-gpt&theme=dark&nocache=1)](https://github.com/jcubic/chat-gpt)
-[![Leash Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=leash&theme=dark)](https://github.com/jcubic/leash)
-[![jsh.php Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=jsh.php&theme=dark)](https://github.com/jcubic/jsh.php)
-[![Cmatrix Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=cmatrix&theme=dark)](https://github.com/jcubic/cmatrix)
-[![Clarity Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=clarity&theme=dark)](https://github.com/jcubic/clarity)
-[![jquery.filebrowser Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=jquery.filebrowser&theme=dark&nocache=1)](https://github.com/jcubic/jquery.filebrowser)
-[![jquery.splitter Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=jquery.splitter&theme=dark&nocache=4)](https://github.com/jcubic/jquery.splitter)
-[![Route.js Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=route.js&theme=dark&nocache=2)](https://github.com/jcubic/route.js)
-[![lily Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=lily&theme=dark&nocache=1)](https://github.com/jcubic/lily)
-[![Velvet Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=velvet&theme=dark)](https://github.com/jcubic/velvet)
-[![Battery Card](https://github-readme-stats.vercel.app/api/pin/?username=Genentech&repo=battery&theme=dark&show_owner=true)](https://github.com/Genentech/battery)
-[![Git Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=git&theme=dark)](https://github.com/jcubic/git)
-[![expression.php Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=expression.php&theme=dark)](https://github.com/jcubic/expression.php)
-[![Favloader Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=favloader&theme=dark&nocache=1)](https://github.com/jcubic/favloader)
-[![ASCII Canvas Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=ascii-canvas&theme=dark&nocache=1)](https://github.com/jcubic/ascii-canvas)
-[![Fake Linux Terminal Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=fake-linux-terminal&theme=dark&nocache=1)](https://github.com/jcubic/fake-linux-terminal)
-[![Monadic Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=Monadic&theme=dark&nocache=1)](https://github.com/jcubic/Monadic)
-[![Calendar Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=calendar&theme=dark&nocache=1)](https://github.com/jcubic/calendar)
-[![jquery.resize Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=jquery.resize&theme=dark&nocache=1)](https://github.com/jcubic/jquery.resize)
-[![prism-cli Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=prism-cli&theme=dark&nocache=1)](https://github.com/jcubic/prism-cli)
-[![Yapp Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=yapp&theme=dark&nocache=1)](https://github.com/jcubic/yapp)
-[![WebRTC share Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=webrtc-share&theme=dark&nocache=1)](https://github.com/jcubic/webrtc-share)
-[![coverage.el Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=coverage.el&theme=dark&nocache=1)](https://github.com/jcubic/coverage.el)
-[![JSON-RPC Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=json-rpc&theme=dark&nocache=1)](https://github.com/jcubic/json-rpc)
-[![ANSIDec Card](https://github-readme-stats.vercel.app/api/pin/?username=jcubic&repo=ansidec&theme=dark&nocache=1)](https://github.com/jcubic/ansidec)
 
 ## Tech stack
 I work with:<br/>
