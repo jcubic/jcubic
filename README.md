@@ -5,6 +5,7 @@ I'm Jakub T. Jankiewicz and I'm a Web Developer from Poland, right now **looking
 ## About me
 * I'm a JavaScript expert and currently mastering ReactJS, ReactNative, TypeScript, NextJS, and GraphQL.
 * I'm in a process of writing a new [website and documentation for my project jQuery Terminal](https://github.com/jcubic/jquery.terminal-docs/), the website use React framework [Docusaurus](https://docusaurus.io).
+* I'm also working on new project called [Dialogue](https://github.com/jcubic/dialogue) - modular chat library.
 * I love to share my knowledge by [writing technical articles](https://jakub.jankiewicz.org/writing.php) and answering questions on sites like [StackOverflow](https://stackoverflow.com/users/387194/jcubic) and on Social Media. I'm also learning how to be a good mentor.
 * I have a Polish blog called ["Głównie JavaScript" (en. Mostly JavaScript)](https://jcubic.pl/), but I'm not active there anymore. Recently I started [a new personal blog](https://jcu.bi/blog) created using [Eleventy](https://www.11ty.dev/). I plan to be more active there. I will write programming articles but also about other topics that interest me.
 
