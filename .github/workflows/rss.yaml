@@ -1,6 +1,9 @@
 name: RSS Feeds
 
 on:
+  push:
+    branches:
+      - master
   schedule:
     - cron: 0 0 * * 1
 
