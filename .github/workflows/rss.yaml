@@ -1,4 +1,4 @@
-name: RSS
+name: RSS Feeds
 
 on:
   schedule:
@@ -8,7 +8,13 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - name: "Blog"
+        uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://jakub.jankiewicz.org/blog/rss.xml
           readme-section: main
+      - name: "My Other Writings"
+        uses: JasonEtco/rss-to-readme@v1
+        with:
+           feed-url: https://jakub.jankiewicz.org/rss.xml
+           readme-section: other

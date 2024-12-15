@@ -55,6 +55,11 @@ As you can see in my profile I have a few Open Source projects and offer [Paid S
 ...
 <!--END_SECTION:main-->
 
+## My Other Article
+<!--START_SECTION:other-->
+...
+<!--END_SECTION:other-->
+
 ## Lists
 * [Top GitHub Users By Followers in Poland](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/poland.md)
 * [Top GitHub Users By Total Contributions in Poland](https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/poland.md)
