@@ -61,7 +61,12 @@ As you can see in my profile I have a few Open Source projects and offer [Paid S
 
 ## My Other Article
 <!--START_SECTION:other-->
-...
+* [How to create interactive terminal like website?](https:&#x2F;&#x2F;itnext.io&#x2F;how-to-create-interactive-terminal-like-website-888bb0972288?)
+* [Controlling Paint Worklet with JSON in CSS](https:&#x2F;&#x2F;itnext.io&#x2F;controlling-paint-worklet-with-json-in-css-298a7b10e41c)
+* [Interactive R debugger (REPL) for shiny apps](https:&#x2F;&#x2F;itnext.io&#x2F;interactive-r-debugger-repl-for-shiny-apps-87c769be4859)
+* [Simple way to create programming language that compile to
+          javascript](https:&#x2F;&#x2F;hackernoon.com&#x2F;creating-your-own-javascript-based-programming-language-has-never-been-easier-wju33by)
+* [How to Promote your Open Source Project with SEO](https:&#x2F;&#x2F;itnext.io&#x2F;seo-for-open-source-projects-1a6b17ffeb8b)
 <!--END_SECTION:other-->
 
 ## Lists
