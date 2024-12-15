@@ -2,7 +2,7 @@
 
 I'm Jakub T. Jankiewicz and I'm a Web Developer from Poland, right now **looking for a remote job** with ReactJS/React Native and TypeScript.
 
-## About me
+## About Me
 * I'm a JavaScript expert and currently mastering ReactJS, ReactNative, TypeScript, NextJS, and GraphQL.
 * I'm in a process of writing a new [website and documentation for my project jQuery Terminal](https://github.com/jcubic/jquery.terminal-docs/), the website use React framework [Docusaurus](https://docusaurus.io).
 * I'm also working on new project called [Dialogue](https://github.com/jcubic/dialogue) - modular chat library.
@@ -22,7 +22,7 @@ I have a list of articles that I want to write that will showcase my Open Source
 
 [CSRF Protection Problem and How to Fix it](https://www.freecodecamp.org/news/csrf-protection-problem-and-how-to-fix-it/)
 
-## Tech stack
+## Tech Stack
 I work with:<br/>
 [![JavaScript, TypeScript, HTML, CSS, React, Redux, RegExp, Web Workers, jQuery, Markdown, Emotion, jest, GNU Emacs, Linux, Bash, Git, Vite, Webpack, Docker, MySQL, SQLite, GraphQL, Prisma, Firebase, Next, GitHub, Vercel, p5js, CodePen](https://skillicons.dev/icons?i=js,typescript,html,css,svg,react,redux,regex,workers,jquery,md,emotion,jest,emacs,linux,bash,git,vite,webpack,docker,mysql,sqlite,graphql,prisma,firebase,next,github,vercel,p5js,codepen&perline=6)](https://skillicons.dev)
 
@@ -50,7 +50,7 @@ As you can see in my profile I have a few Open Source projects and offer [Paid S
 ![GNU/Linux](https://img.shields.io/badge/GNU%2fLinux-404040.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-C45E00.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## By personal blog posts
+## By Personal Blog Posts
 <!--START_SECTION:main-->
 ...
 <!--END_SECTION:main-->
