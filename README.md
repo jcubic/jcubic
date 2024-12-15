@@ -50,6 +50,11 @@ As you can see in my profile I have a few Open Source projects and offer [Paid S
 ![GNU/Linux](https://img.shields.io/badge/GNU%2fLinux-404040.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-C45E00.svg?style=for-the-badge&logo=git&logoColor=white)
 
+## By personal blog posts
+<!--START_SECTION:feed-->
+...
+<!--END_SECTION:feed-->
+
 ## Lists
 * [Top GitHub Users By Followers in Poland](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/poland.md)
 * [Top GitHub Users By Total Contributions in Poland](https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/poland.md)
