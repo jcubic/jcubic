@@ -51,9 +51,9 @@ As you can see in my profile I have a few Open Source projects and offer [Paid S
 ![GIT](https://img.shields.io/badge/GIT-C45E00.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## By personal blog posts
-<!--START_SECTION:feed-->
+<!--START_SECTION:main-->
 ...
-<!--END_SECTION:feed-->
+<!--END_SECTION:main-->
 
 ## Lists
 * [Top GitHub Users By Followers in Poland](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/poland.md)
