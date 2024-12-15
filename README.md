@@ -67,6 +67,24 @@ As you can see in my profile I have a few Open Source projects and offer [Paid S
 * [Simple way to create programming language that compile to
           javascript](https:&#x2F;&#x2F;hackernoon.com&#x2F;creating-your-own-javascript-based-programming-language-has-never-been-easier-wju33by)
 * [How to Promote your Open Source Project with SEO](https:&#x2F;&#x2F;itnext.io&#x2F;seo-for-open-source-projects-1a6b17ffeb8b)
+* [How I’ve created Photo in single div CSS](https:&#x2F;&#x2F;dev.to&#x2F;jcubic&#x2F;how-i-ve-created-photo-in-single-div-css-45bm)
+* [Favicon for Next.js and TypeScript](https:&#x2F;&#x2F;dev.to&#x2F;jcubic&#x2F;favicon-for-next-js-and-typescript-9gk)
+* [RPC in Next.js](https:&#x2F;&#x2F;dev.to&#x2F;jcubic&#x2F;rpc-in-next-js-5bd7)
+* [How to create Web Server in Browser](https:&#x2F;&#x2F;itnext.io&#x2F;how-to-create-web-server-in-browser-ffaa371d2b53)
+* [GitHub Action to clear cache on Images in README](https:&#x2F;&#x2F;dev.to&#x2F;jcubic&#x2F;github-action-to-clear-cache-on-images-in-readme-5g1n)
+* [How to get a literally free CDN](https:&#x2F;&#x2F;dev.to&#x2F;jcubic&#x2F;how-to-get-a-literally-free-cdn-2gc1)
+* [How to make your first Open Source contribution in few seconds](https:&#x2F;&#x2F;dev.to&#x2F;jcubic&#x2F;how-to-make-your-first-open-source-contribution-in-few-seconds-pb9)
+* [JavaScript Online Interpreter](https:&#x2F;&#x2F;dev.to&#x2F;jcubic&#x2F;javascript-online-interpreter-2dci)
+* [CSRF Protection Problem and How to Fix it](https:&#x2F;&#x2F;www.freecodecamp.org&#x2F;news&#x2F;csrf-protection-problem-and-how-to-fix-it&#x2F;)
+* [Architecture for Non-Trivial R Shiny Applications](https:&#x2F;&#x2F;dev.to&#x2F;jcubic&#x2F;architecture-for-non-trivial-r-shiny-applications-3816)
+* [How to become Front-End Developer](https:&#x2F;&#x2F;dev.to&#x2F;jcubic&#x2F;how-to-become-software-development-50hp)
+* [Hack to Run React Application inside Service Worker](https:&#x2F;&#x2F;dev.to&#x2F;jcubic&#x2F;hack-to-run-react-application-inside-service-worker-4p2f)
+* [Save chatGPT conversation as HTML file](https:&#x2F;&#x2F;dev.to&#x2F;jcubic&#x2F;save-chatgpt-as-html-file-dhh)
+* [How to Parse S-expressions in JavaScript](https:&#x2F;&#x2F;www.freecodecamp.org&#x2F;news&#x2F;s-expressions-in-javascript&#x2F;)
+* [How to Create an Interactive Terminal-Based Portfolio Website](https:&#x2F;&#x2F;www.freecodecamp.org&#x2F;news&#x2F;how-to-create-interactive-terminal-based-portfolio&#x2F;)
+* [How to Create a REST API Without a Server](https:&#x2F;&#x2F;www.freecodecamp.org&#x2F;news&#x2F;how-to-create-a-rest-api-without-a-server&#x2F;)
+* [How to Match Parentheses in JavaScript without Using Regex](https:&#x2F;&#x2F;www.freecodecamp.org&#x2F;news&#x2F;how-to-match-parentheses-in-javascript-without-using-regex&#x2F;)
+* [My Old Blog](https:&#x2F;&#x2F;jcubic.wordpress.com&#x2F;)
 <!--END_SECTION:other-->
 
 ## Lists
