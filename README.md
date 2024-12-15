@@ -52,7 +52,11 @@ As you can see in my profile I have a few Open Source projects and offer [Paid S
 
 ## By Personal Blog Posts
 <!--START_SECTION:main-->
-...
+* [Handling auto-indentation in Node.js REPL](https:&#x2F;&#x2F;jakub.jankiewicz.org&#x2F;blog&#x2F;node-repl-auto-indent&#x2F;)
+* [Batman website inspired terminal quiz app](https:&#x2F;&#x2F;jakub.jankiewicz.org&#x2F;blog&#x2F;batman-terminal-app&#x2F;)
+* [How to Implement a Simple Markdown Parser](https:&#x2F;&#x2F;jakub.jankiewicz.org&#x2F;blog&#x2F;markdown-parser&#x2F;)
+* [How to Learn Design as a Web Developer](https:&#x2F;&#x2F;jakub.jankiewicz.org&#x2F;blog&#x2F;learn-design&#x2F;)
+* [Hack for Syntax Highlighting of Source Code](https:&#x2F;&#x2F;jakub.jankiewicz.org&#x2F;blog&#x2F;display-source-files-in-color&#x2F;)
 <!--END_SECTION:main-->
 
 ## My Other Article
