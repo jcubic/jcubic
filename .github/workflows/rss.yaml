@@ -20,4 +20,5 @@ jobs:
         uses: JasonEtco/rss-to-readme@v1
         with:
            feed-url: https://jakub.jankiewicz.org/rss.xml
+           max: 30
            readme-section: other
