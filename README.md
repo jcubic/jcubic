@@ -1,6 +1,6 @@
-![Jakub T. Jankiewicz ASCII banner](https://raw.githubusercontent.com/jcubic/jcubic/refs/heads/master/assets/banner.svg)
+![Jakub T. Jankiewicz ASCII banner](/assets/banner.svg)
 
-I'm Jakub T. Jankiewicz and I'm a Web Developer from Poland, right now **looking for a remote job** with ReactJS/React Native and TypeScript.
+I'm Jakub T. Jankiewicz, and I'm a Web Developer from Poland, right now **looking for a remote job** with ReactJS/React Native and TypeScript.
 
 ## About Me
 * I'm a JavaScript expert and currently mastering ReactJS, ReactNative, TypeScript, NextJS, and GraphQL.
