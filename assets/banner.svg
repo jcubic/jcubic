@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
-<svg width="396.875mm" height="132.29167mm" viewBox="0 0 396.875 132.29167" version="1.1" id="svg1" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+<svg width="396.875mm" height="109.1133mm" viewBox="0 0 396.875 109.1133" version="1.1" id="svg1" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
   <defs id="defs1">
     <rect x="27.449356" y="163.89365" width="1582.6484" height="310.84464" id="rect1" />
+    <rect x="27.449356" y="163.89365" width="1578.1014" height="58.948696" id="rect15" />
   </defs>
   <g id="layer1" transform="translate(93.4375,-31.817509)">
-    <rect style="fill:#0d1116;fill-opacity:1;fill-rule:evenodd;stroke-width:0.588885;-inkscape-stroke:none" id="rect2" width="396.875" height="132.29167" x="-93.4375" y="31.817509" />
-    <text xml:space="preserve" transform="matrix(0.24045605,0,0,0.24045605,-98.353002,10.607303)" id="text1" style="font-size:28px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#b3b3b3" x="1528.801" y="0"><tspan x="81.296684" y="189.37104" id="tspan16"><tspan style="font-weight:bold;font-family:Monospace;-inkscape-font-specification:'Monospace Bold'" id="tspan1">      _       _          _       _____       _             _    _               _          
-</tspan></tspan><tspan x="81.296684" y="224.62642" id="tspan18"><tspan style="font-weight:bold;font-family:Monospace;-inkscape-font-specification:'Monospace Bold'" id="tspan17">     | | __ _| | ___   _| |__   |_   _|     | | __ _ _ __ | | _(_) _____      _(_) ___ ____
-</tspan></tspan><tspan x="81.296684" y="259.88181" id="tspan20"><tspan style="font-weight:bold;font-family:Monospace;-inkscape-font-specification:'Monospace Bold'" id="tspan19">  _  | |/ _` | |/ / | | | '_ \    | |    _  | |/ _` | '_ \| |/ / |/ _ \ \ /\ / / |/ __|_  /
-</tspan></tspan><tspan x="81.296684" y="295.13718" id="tspan22"><tspan style="font-weight:bold;font-family:Monospace;-inkscape-font-specification:'Monospace Bold'" id="tspan21"> | |_| | (_| |   &lt;| |_| | |_) |   | |_  | |_| | (_| | | | |   &lt;| |  __/\ V  V /| | (__ / / 
-</tspan></tspan><tspan x="81.296684" y="330.39255" id="tspan24"><tspan style="font-weight:bold;font-family:Monospace;-inkscape-font-specification:'Monospace Bold'" id="tspan23">  \___/ \__,_|_|\_\\__,_|_.__/    |_(_)  \___/ \__,_|_| |_|_|\_\_|\___| \_/\_/ |_|\___/___|
-</tspan></tspan><tspan x="1610.0977" y="365.64792" id="tspan26"><tspan style="font-weight:bold;font-family:Monospace;-inkscape-font-specification:'Monospace Bold'" id="tspan25">
-</tspan></tspan><tspan x="1005.2973" y="400.90329" id="tspan28"><tspan style="font-weight:bold;font-family:Monospace;-inkscape-font-specification:'Monospace Bold'" id="tspan27">JavaScript, Open Source, and the Web</tspan></tspan></text>
+    <rect style="fill:#0d1116;fill-opacity:1;fill-rule:evenodd;stroke-width:0.588885;-inkscape-stroke:none" id="rect2" width="396.875" height="109.1133" x="-93.4375" y="31.817509" />
+    <text xml:space="preserve" transform="matrix(0.24045605,0,0,0.24045605,-98.353002,10.607303)" id="text1" style="font-size:28px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#b3b3b3" x="1528.801" y="0"><tspan x="81.296684" y="189.37104" id="tspan3"><tspan style="font-weight:bold;font-family:Monospace;-inkscape-font-specification:'Monospace Bold'" id="tspan2">      _       _          _       _____       _             _    _               _          
+</tspan></tspan><tspan x="81.296684" y="224.62642" id="tspan5"><tspan style="font-weight:bold;font-family:Monospace;-inkscape-font-specification:'Monospace Bold'" id="tspan4">     | | __ _| | ___   _| |__   |_   _|     | | __ _ _ __ | | _(_) _____      _(_) ___ ____
+</tspan></tspan><tspan x="81.296684" y="259.88181" id="tspan7"><tspan style="font-weight:bold;font-family:Monospace;-inkscape-font-specification:'Monospace Bold'" id="tspan6">  _  | |/ _` | |/ / | | | '_ \    | |    _  | |/ _` | '_ \| |/ / |/ _ \ \ /\ / / |/ __|_  /
+</tspan></tspan><tspan x="81.296684" y="295.13718" id="tspan9"><tspan style="font-weight:bold;font-family:Monospace;-inkscape-font-specification:'Monospace Bold'" id="tspan8"> | |_| | (_| |   &lt;| |_| | |_) |   | |_  | |_| | (_| | | | |   &lt;| |  __/\ V  V /| | (__ / / 
+</tspan></tspan><tspan x="81.296684" y="330.39255" id="tspan11"><tspan style="font-weight:bold;font-family:Monospace;-inkscape-font-specification:'Monospace Bold'" id="tspan10">  \___/ \__,_|_|\_\\__,_|_.__/    |_(_)  \___/ \__,_|_| |_|_|\_\_|\___| \_/\_/ |_|\___/___|
+</tspan></tspan><tspan x="1610.0977" y="365.64792" id="tspan13"><tspan style="font-weight:bold;font-family:Monospace;-inkscape-font-specification:'Monospace Bold'" id="tspan12">
+</tspan></tspan><tspan x="1005.2973" y="400.90329" id="tspan29"><tspan style="font-weight:bold;font-family:Monospace;-inkscape-font-specification:'Monospace Bold'" id="tspan14">JavaScript, Open Source, and the Web
+</tspan></tspan></text>
+    <text xml:space="preserve" transform="matrix(0.24045605,0,0,0.24045605,-79.962752,74.287562)" id="text15" style="font-size:28px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect15);display:inline;fill:#b3b3b3" x="1515.5393" y="0"><tspan x="27.449219" y="189.37104" id="tspan31"><tspan style="font-weight:bold;font-family:Monospace;-inkscape-font-specification:'Monospace Bold'" id="tspan30">$ npx jcubic</tspan></tspan></text>
   </g>
 </svg>
