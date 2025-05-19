@@ -52,11 +52,11 @@ As you can see in my profile I have a few Open Source projects and offer [Paid S
 
 ## By Personal Blog Posts
 <!--START_SECTION:main-->
-* [How to build zig book as PDF on Fedora?]()
-* [Charity Bragging Page]()
-* [Documentaries for Programmers]()
-* [Handling auto-indentation in Node.js REPL]()
-* [Batman website inspired terminal quiz app]()
+* [How to build zig book as PDF on Fedora?](https:&#x2F;&#x2F;jakub.jankiewicz.org&#x2F;blog&#x2F;zig-book-pdf&#x2F;)
+* [Charity Bragging Page](https:&#x2F;&#x2F;jakub.jankiewicz.org&#x2F;blog&#x2F;charity-bragging-page&#x2F;)
+* [Documentaries for Programmers](https:&#x2F;&#x2F;jakub.jankiewicz.org&#x2F;blog&#x2F;programming-documentaries&#x2F;)
+* [Handling auto-indentation in Node.js REPL](https:&#x2F;&#x2F;jakub.jankiewicz.org&#x2F;blog&#x2F;node-repl-auto-indent&#x2F;)
+* [Batman website inspired terminal quiz app](https:&#x2F;&#x2F;jakub.jankiewicz.org&#x2F;blog&#x2F;batman-terminal-app&#x2F;)
 <!--END_SECTION:main-->
 
 ## My Other Article
