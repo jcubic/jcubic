@@ -60,6 +60,7 @@ As you can see in my profile I have a few Open Source projects and offer [Paid S
 
 ## My Other Article
 <!--START_SECTION:other-->
+* [My Open Source story @ opensource.org](https:&#x2F;&#x2F;opensource.org&#x2F;maintainers&#x2F;jcubic)
 * [How to Match Parentheses in JavaScript without Using Regex](https:&#x2F;&#x2F;www.freecodecamp.org&#x2F;news&#x2F;how-to-match-parentheses-in-javascript-without-using-regex&#x2F;)
 * [How to Create a REST API Without a Server](https:&#x2F;&#x2F;www.freecodecamp.org&#x2F;news&#x2F;how-to-create-a-rest-api-without-a-server&#x2F;)
 * [How to Create an Interactive Terminal-Based Portfolio Website](https:&#x2F;&#x2F;www.freecodecamp.org&#x2F;news&#x2F;how-to-create-interactive-terminal-based-portfolio&#x2F;)
