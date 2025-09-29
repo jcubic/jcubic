@@ -60,6 +60,7 @@ As you can see in my profile I have a few Open Source projects and offer [Paid S
 
 ## My Other Article
 <!--START_SECTION:other-->
+* [Interview with me on Requestly Blog](https:&#x2F;&#x2F;requestly.com&#x2F;blog&#x2F;endpoint-ft-jakub-t-jankiewicz-a-pragmatic-guide-to-open-source-ai-and-the-sdlc&#x2F;)
 * [My Open Source story @ opensource.org](https:&#x2F;&#x2F;opensource.org&#x2F;maintainers&#x2F;jcubic)
 * [How to Match Parentheses in JavaScript without Using Regex](https:&#x2F;&#x2F;www.freecodecamp.org&#x2F;news&#x2F;how-to-match-parentheses-in-javascript-without-using-regex&#x2F;)
 * [How to Create a REST API Without a Server](https:&#x2F;&#x2F;www.freecodecamp.org&#x2F;news&#x2F;how-to-create-a-rest-api-without-a-server&#x2F;)
