@@ -9,17 +9,21 @@ I'm Jakub T. Jankiewicz, and I'm a Web Developer from Poland, right now **lookin
 * I love to share my knowledge by [writing technical articles](https://jakub.jankiewicz.org/writing.php) and answering questions on sites like [StackOverflow](https://stackoverflow.com/users/387194/jcubic) and on Social Media. I'm also learning how to be a good mentor.
 * I have a Polish blog called ["Głównie JavaScript" (en. Mostly JavaScript)](https://jcubic.pl/), but I'm not active there anymore. Recently I started [a new personal blog](https://jcu.bi/blog) created using [Eleventy](https://www.11ty.dev/). I plan to be more active there. I will write programming articles but also about other topics that interest me.
 
-## Open Source
+## Open Source Developer
 My most known Open Source library is [jQuery Terminal](https://terminal.jcubic.pl/), it has a long history and was started in about 2010. I've started working on [version 3.0](https://github.com/pure-terminal/pure-terminal) recently. I've planned it to be a complete rewrite in TypeScript without dependency on jQuery. I plan to use something modern like [Cash](https://github.com/fabiospampinato/cash) with a similar API. I also need to write better documentation and visual tests that are missing.
 
 I'm an Active Maintainer of the popular library [Isomorphic-git](https://isomorphic-git.org/).
 
-I'm also actively promoting Open Source projects using SEO to attract more users, I've even written an article that shows how to do that on your own.
+I have a list of articles that I want to write that will showcase my Open Source projects, for instance on FreeCodeCamp, where I've wrtten
+[few articles](https://www.freecodecamp.org/news/author/jcubic/).
+
+## SEO Specialist
+I have experience in SEO, I'm using my skills for promoting my Open Source projects to attract more users, I've even written an article that shows how to do that on your own.
 
 [How to Promote your Open Source Project with SEO](https://itnext.io/seo-for-open-source-projects-1a6b17ffeb8b)
 
-I have a list of articles that I want to write that will showcase my Open Source projects, for instance on FreeCodeCamp, where I've wrtten
-[few articles](https://www.freecodecamp.org/news/author/jcubic/).
+## Wikipedia Expert
+I'm Wikipedia Editor, WikiTrainer, mentor for newcomers. I'm also doing [professional consulations and traing for SEO, PR, and personal brand specialists](https://jcubic.pl/wikipedia/).
 
 ## Tech Stack
 I work with:<br/>
