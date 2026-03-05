@@ -4,7 +4,6 @@ I'm Jakub T. Jankiewicz, and I'm a Web Developer from Poland, right now **lookin
 
 ## About Me
 * I'm a JavaScript expert and currently mastering ReactJS, ReactNative, TypeScript, NextJS, and GraphQL.
-* I started a Education project [WikiZEIT](https://github.com/WikiZEIT), where I will be sharing information about Wikipedia editing.
 * <del>I'm in a process of writing a new [website and documentation for my project jQuery Terminal](https://github.com/jcubic/jquery.terminal-docs/), the website use React framework [Docusaurus](https://docusaurus.io).</del>
 * <del>I'm also working on new project called [Dialogue](https://github.com/jcubic/dialogue) - modular chat library.</del>
 * I love to share my knowledge by [writing technical articles](https://jakub.jankiewicz.org/writing.php) and answering questions on sites like [StackOverflow](https://stackoverflow.com/users/387194/jcubic) and on Social Media. I'm also learning how to be a good mentor.
@@ -24,7 +23,7 @@ I have experience in SEO, I'm using my skills for promoting my Open Source proje
 [How to Promote your Open Source Project with SEO](https://itnext.io/seo-for-open-source-projects-1a6b17ffeb8b)
 
 ## Wikipedia Expert
-I'm Wikipedia Editor, WikiTrainer, mentor for newcomers. I'm also doing [professional consulations and traing for SEO, PR, and personal brand specialists](https://jcubic.pl/wikipedia/).
+I'm Wikipedia Editor, WikiTrainer, mentor for newcomers. My educuation Wikipedia project is called [WikiZEIT](https://github.com/WikiZEIT). I'm also doing [Wikipedia consulations and traing](https://jcubic.pl/wikizeit/szkolenia/).
 
 ## Tech Stack
 I work with:<br/>
