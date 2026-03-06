@@ -53,7 +53,7 @@ As you can see in my profile I have a few Open Source projects and offer [Paid S
 ![GNU/Linux](https://img.shields.io/badge/GNU%2fLinux-404040.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-C45E00.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## By Personal Blog Posts
+## By [Personal Blog](https://jakub.jankiewicz.org/blog/) Posts
 <!--START_SECTION:main-->
 * [My Advice to New Developers](https:&#x2F;&#x2F;jakub.jankiewicz.org&#x2F;blog&#x2F;programming-advice&#x2F;)
 * [How to build zig book as PDF on Fedora?](https:&#x2F;&#x2F;jakub.jankiewicz.org&#x2F;blog&#x2F;zig-book-pdf&#x2F;)
