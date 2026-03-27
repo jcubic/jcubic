@@ -62,6 +62,10 @@ As you can see in my profile I have a few Open Source projects and offer [Paid S
 * [Handling auto-indentation in Node.js REPL](https:&#x2F;&#x2F;jakub.jankiewicz.org&#x2F;blog&#x2F;node-repl-auto-indent&#x2F;)
 <!--END_SECTION:main-->
 
+## [WikiZEIT](https://jcubic.pl/wikizeit/) Posts in Polish (🇵🇱)
+<!--START_SECTION:wikizeit-->
+<!--END_SECTION:wikizeit-->
+
 ## My Other Article
 <!--START_SECTION:other-->
 * [How to Create a Table of Contents for Your Article](https:&#x2F;&#x2F;www.freecodecamp.org&#x2F;news&#x2F;how-to-create-a-table-of-contents-for-your-article&#x2F;)

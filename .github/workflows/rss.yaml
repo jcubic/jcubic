@@ -17,9 +17,17 @@ jobs:
         with:
           feed-url: https://jakub.jankiewicz.org/blog/rss.xml
           readme-section: main
+
+      - name: "WikiZEIT"
+        uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://jcubic.pl/wikizeit/feed.xml
+          max: 10
+          readme-section: wikizeit
+
       - name: "My Other Writings"
         uses: JasonEtco/rss-to-readme@v1
         with:
            feed-url: https://jakub.jankiewicz.org/rss.xml
-           max: 30
+           max: 10
            readme-section: other
