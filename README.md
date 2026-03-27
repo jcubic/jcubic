@@ -23,7 +23,7 @@ I have experience in SEO, I'm using my skills for promoting my Open Source proje
 [How to Promote your Open Source Project with SEO](https://itnext.io/seo-for-open-source-projects-1a6b17ffeb8b)
 
 ## Wikipedia Expert
-I'm Wikipedia Editor, WikiTrainer, mentor for newcomers. My education Wikipedia project is called [WikiZEIT](https://github.com/WikiZEIT). I'm also doing [Wikipedia consulations and traing](https://jcubic.pl/wikizeit/szkolenia/).
+I'm Wikipedia Editor, WikiTrainer, mentor for newcomers. My education Wikipedia project is called [WikiZEIT](https://github.com/WikiZEIT). I'm also doing [Wikipedia consulations and traing](https://jcubic.pl/wikizeit/szkolenia/) (As part of my consultations, I also offer paid editing).
 
 ## Tech Stack
 I work with:<br/>
