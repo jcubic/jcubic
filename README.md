@@ -64,6 +64,7 @@ As you can see in my profile I have a few Open Source projects and offer [Paid S
 
 ## [WikiZEIT](https://jcubic.pl/wikizeit/) Posts in Polish (🇵🇱)
 <!--START_SECTION:wikizeit-->
+* [Baby Globe: czyli nowa maskotka Wikipedii](https:&#x2F;&#x2F;jcubic.pl&#x2F;wikizeit&#x2F;blog&#x2F;nowa-masktka-wikipedii&#x2F;)
 * [Encyklopedyczność firm i osób: zasady polskiej Wikipedii?](https:&#x2F;&#x2F;jcubic.pl&#x2F;wikizeit&#x2F;blog&#x2F;przyszlosc-zasad-encyklopedycznosci&#x2F;)
 * [Kto w Polsce prowadzi szkolenia z edytowania Wikipedii?](https:&#x2F;&#x2F;jcubic.pl&#x2F;wikizeit&#x2F;blog&#x2F;szkolenia-wikipedia&#x2F;)
 * [Dane strukturalne Schema.org — przewodnik dla początkujących](https:&#x2F;&#x2F;jcubic.pl&#x2F;wikizeit&#x2F;blog&#x2F;dane-strukturalne-schema-org&#x2F;)
