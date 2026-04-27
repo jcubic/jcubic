@@ -46,6 +46,8 @@ As you can see in my profile I have a few Open Source projects and offer [Paid S
 <img src="https://stackoverflow.com/users/flair/387194.png" width="208" height="58" alt="profile for jcubic at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
 
+<img src="https://algora.io/og/user/jcubic" />
+
 ## Software I use
 
 ![Inkscape](https://img.shields.io/badge/Inkscape-0078d7.svg?style=for-the-badge&logo=inkscape&logoColor=white)
