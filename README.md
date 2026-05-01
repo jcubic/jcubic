@@ -46,7 +46,7 @@ As you can see in my profile I have a few Open Source projects and offer [Paid S
 <img src="https://stackoverflow.com/users/flair/387194.png" width="208" height="58" alt="profile for jcubic at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
 
-<img src="https://algora.io/og/user/jcubic" />
+[![Algora profile](https://algora.io/og/user/jcubic)](https://algora.io/jcubic/profile)
 
 ## Software I use
 
