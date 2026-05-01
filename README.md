@@ -66,12 +66,13 @@ As you can see in my profile I have a few Open Source projects and offer [Paid S
 
 ## [WikiZEIT](https://jcubic.pl/wikizeit/) Posts in Polish (🇵🇱)
 <!--START_SECTION:wikizeit-->
+* [Płatna Edycja Wikipedii w Polsce](https:&#x2F;&#x2F;wikizeit.jcubic.pl&#x2F;blog&#x2F;platne-edycje-wikipedii&#x2F;)
 * [Czy Wikipedia jest płatna? Wikimedia Enterprise i SEO](https:&#x2F;&#x2F;wikizeit.jcubic.pl&#x2F;blog&#x2F;wikipedia-enterprise&#x2F;)
 * [Baby Globe: czyli nowa maskotka Wikipedii](https:&#x2F;&#x2F;wikizeit.jcubic.pl&#x2F;blog&#x2F;nowa-maskotka-wikipedii&#x2F;)
 * [Encyklopedyczność firm i osób: zasady polskiej Wikipedii?](https:&#x2F;&#x2F;wikizeit.jcubic.pl&#x2F;blog&#x2F;przyszlosc-zasad-encyklopedycznosci&#x2F;)
 * [Kto w Polsce prowadzi szkolenia z edytowania Wikipedii?](https:&#x2F;&#x2F;wikizeit.jcubic.pl&#x2F;blog&#x2F;szkolenia-wikipedia&#x2F;)
 * [Dane strukturalne Schema.org – przewodnik dla początkujących](https:&#x2F;&#x2F;wikizeit.jcubic.pl&#x2F;blog&#x2F;dane-strukturalne-schema-org&#x2F;)
-* [Czym jest Wikidata i dlaczego ma znaczenie dla SEO?](https:&#x2F;&#x2F;wikizeit.jcubic.pl&#x2F;blog&#x2F;czym-jest-wikidata&#x2F;)
+* [Czym są Wikidane i dlaczego ma znaczenie dla SEO?](https:&#x2F;&#x2F;wikizeit.jcubic.pl&#x2F;blog&#x2F;czym-jest-wikidata&#x2F;)
 * [Wikipedia a SEO – jak encyklopedia wpływa na widoczność Twojej marki](https:&#x2F;&#x2F;wikizeit.jcubic.pl&#x2F;blog&#x2F;wikipedia-i-seo&#x2F;)
 <!--END_SECTION:wikizeit-->
 
