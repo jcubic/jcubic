@@ -89,8 +89,3 @@ As you can see in my profile I have a few Open Source projects and offer [Paid S
 * [Hack to Run React Application inside Service Worker](https:&#x2F;&#x2F;dev.to&#x2F;jcubic&#x2F;hack-to-run-react-application-inside-service-worker-4p2f)
 * [How to become Front-End Developer](https:&#x2F;&#x2F;dev.to&#x2F;jcubic&#x2F;how-to-become-software-development-50hp)
 <!--END_SECTION:other-->
-
-## Lists
-* [Top GitHub Users By Followers in Poland](https://github.com/gayanvoice/top-github-users/blob/main/markdown/followers/poland.md)
-* [Top GitHub Users By Total Contributions in Poland](https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/poland.md)
-* [Top GitHub Users By Public Contributions in Poland](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/poland.md)
