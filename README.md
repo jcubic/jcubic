@@ -1,6 +1,10 @@
 ![Jakub T. Jankiewicz ASCII banner](/assets/banner.svg)
 
-I'm Jakub T. Jankiewicz, and I'm a Web Developer from Poland, right now **looking for a remote job** with ReactJS/React Native and TypeScript.
+Jakub T. Jankiewicz is a software engineer with over 15 years of experience in [open-source development](https://opensource.org/maintainers/jcubic),
+as well as an active [editor of Polish Wikipedia](https://pl.wikipedia.org/wiki/Wikipedysta:Jcubic), a guide for newcomers,
+and an [official trainer](https://pl.wikipedia.org/wiki/Wikipedia:WikiTrenerzy/Uczestnicy_i_uczestniczki)
+for the [Wikimedia Polska Association](https://wikimedia.pl/). He is the main author of the
+[WikiZEIT project](http://wikizeit.edu.pl/). He is also involved in [photography](https://www.flickr.com/people/jcubic/).
 
 ## About Me
 * I'm a JavaScript expert and currently mastering ReactJS, ReactNative, TypeScript, NextJS, and GraphQL.
@@ -23,7 +27,7 @@ I have experience in SEO, I'm using my skills for promoting my Open Source proje
 [How to Promote your Open Source Project with SEO](https://itnext.io/seo-for-open-source-projects-1a6b17ffeb8b)
 
 ## Wikipedia Expert
-I'm Wikipedia Editor, WikiTrainer, mentor for newcomers. My education Wikipedia project is called [WikiZEIT](https://github.com/WikiZEIT). I'm also doing [Wikipedia consulations and traing](https://jcubic.pl/wikizeit/szkolenia/) (As part of my consultations, I also offer paid editing).
+I'm Wikipedia Editor, WikiTrainer, mentor for newcomers. My education Wikipedia project is called [WikiZEIT](https://github.com/WikiZEIT). I'm also doing [Wikipedia consulations and traing](https://wikizeit.edu.pl/oferta/) (As part of my consultations, I also offer paid editing).
 
 ## Tech Stack
 I work with:<br/>
