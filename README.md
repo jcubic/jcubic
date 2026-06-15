@@ -70,6 +70,7 @@ As you can see in my profile I have a few Open Source projects and offer [Paid S
 
 ## [WikiZEIT](https://wikizeit.edu.pl/) Posts in Polish (🇵🇱)
 <!--START_SECTION:wikizeit-->
+* [Jak napisać bota do Wikipedii](https:&#x2F;&#x2F;wikizeit.edu.pl&#x2F;blog&#x2F;bot-w-wikipdii&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;feed)
 * [Konkursy Fotograficzne Wikimedia Commons](https:&#x2F;&#x2F;wikizeit.edu.pl&#x2F;blog&#x2F;konkursy-fotograficzne&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;feed)
 * [Płatna Edycja Wikipedii w Polsce](https:&#x2F;&#x2F;wikizeit.edu.pl&#x2F;blog&#x2F;platne-edycje-wikipedii&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;feed)
 * [Czy Wikipedia jest płatna? Wikimedia Enterprise i SEO](https:&#x2F;&#x2F;wikizeit.edu.pl&#x2F;blog&#x2F;wikipedia-enterprise&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;feed)
