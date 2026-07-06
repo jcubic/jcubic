@@ -70,6 +70,7 @@ As you can see in my profile I have a few Open Source projects and offer [Paid S
 
 ## [WikiZEIT](https://wikizeit.edu.pl/) Posts in Polish (🇵🇱)
 <!--START_SECTION:wikizeit-->
+* [Jak poprawić widoczność marki osobistej w AI?](https:&#x2F;&#x2F;wikizeit.edu.pl&#x2F;blog&#x2F;widoczonosc-marki-osobistej-w-ai&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;feed)
 * [Projekt Koszulki „Jestem w Wikipedii”](https:&#x2F;&#x2F;wikizeit.edu.pl&#x2F;blog&#x2F;jestem-w-wikipedii&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;feed)
 * [Dokumentacja Eksponatów w Muzeum &#39;Domek Tkaczki&#39;](https:&#x2F;&#x2F;wikizeit.edu.pl&#x2F;blog&#x2F;dokumentacja-eksponatow-domku-tkaczki&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;feed)
 * [Jak napisać bota do Wikipedii](https:&#x2F;&#x2F;wikizeit.edu.pl&#x2F;blog&#x2F;bot-w-wikipdii&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;feed)
@@ -79,7 +80,6 @@ As you can see in my profile I have a few Open Source projects and offer [Paid S
 * [Baby Globe: czyli nowa maskotka Wikipedii](https:&#x2F;&#x2F;wikizeit.edu.pl&#x2F;blog&#x2F;nowa-maskotka-wikipedii&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;feed)
 * [Encyklopedyczność firm i osób: zasady polskiej Wikipedii?](https:&#x2F;&#x2F;wikizeit.edu.pl&#x2F;blog&#x2F;przyszlosc-zasad-encyklopedycznosci&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;feed)
 * [Kto w Polsce prowadzi szkolenia z edytowania Wikipedii?](https:&#x2F;&#x2F;wikizeit.edu.pl&#x2F;blog&#x2F;szkolenia-wikipedia&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;feed)
-* [Dane strukturalne Schema.org – przewodnik dla początkujących](https:&#x2F;&#x2F;wikizeit.edu.pl&#x2F;blog&#x2F;dane-strukturalne-schema-org&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;feed)
 <!--END_SECTION:wikizeit-->
 
 ## My Other Article
