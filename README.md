@@ -61,11 +61,11 @@ As you can see in my profile I have a few Open Source projects and offer [Paid S
 
 ## By [Personal Blog](https://jakub.jankiewicz.org/blog/) Posts
 <!--START_SECTION:main-->
+* [The Importance of Questioning When Using AI Agents](https:&#x2F;&#x2F;jakub.jankiewicz.org&#x2F;blog&#x2F;questioning-ai&#x2F;)
 * [My Advice to New Developers](https:&#x2F;&#x2F;jakub.jankiewicz.org&#x2F;blog&#x2F;programming-advice&#x2F;)
 * [How to build zig book as PDF on Fedora?](https:&#x2F;&#x2F;jakub.jankiewicz.org&#x2F;blog&#x2F;zig-book-pdf&#x2F;)
 * [How to Help Charities and Your Ego?](https:&#x2F;&#x2F;jakub.jankiewicz.org&#x2F;blog&#x2F;charity-bragging-page&#x2F;)
 * [Documentaries for Programmers](https:&#x2F;&#x2F;jakub.jankiewicz.org&#x2F;blog&#x2F;programming-documentaries&#x2F;)
-* [Handling auto-indentation in Node.js REPL](https:&#x2F;&#x2F;jakub.jankiewicz.org&#x2F;blog&#x2F;node-repl-auto-indent&#x2F;)
 <!--END_SECTION:main-->
 
 ## [WikiZEIT](https://wikizeit.edu.pl/) Posts in Polish (🇵🇱)
