@@ -84,6 +84,7 @@ As you can see in my profile I have a few Open Source projects and offer [Paid S
 
 ## My Other Article
 <!--START_SECTION:other-->
+* [How to Build a Dark Mode Toggle Without JavaScript](https:&#x2F;&#x2F;www.freecodecamp.org&#x2F;news&#x2F;how-to-build-a-dark-mode-toggle-without-javascript&#x2F;)
 * [How to Build a Zero-Cost Personal Project with PHP, Wasmer, and Cloudflare](https:&#x2F;&#x2F;www.freecodecamp.org&#x2F;news&#x2F;how-to-build-a-zero-cost-personal-project-with-php-wasmer-and-cloudflare&#x2F;)
 * [How to Create a Table of Contents for Your Article](https:&#x2F;&#x2F;www.freecodecamp.org&#x2F;news&#x2F;how-to-create-a-table-of-contents-for-your-article&#x2F;)
 * [Interview with me on Requestly Blog](https:&#x2F;&#x2F;requestly.com&#x2F;blog&#x2F;endpoint-ft-jakub-t-jankiewicz-a-pragmatic-guide-to-open-source-ai-and-the-sdlc&#x2F;)
@@ -93,5 +94,4 @@ As you can see in my profile I have a few Open Source projects and offer [Paid S
 * [How to Create an Interactive Terminal-Based Portfolio Website](https:&#x2F;&#x2F;www.freecodecamp.org&#x2F;news&#x2F;how-to-create-interactive-terminal-based-portfolio&#x2F;)
 * [How to Parse S-expressions in JavaScript](https:&#x2F;&#x2F;www.freecodecamp.org&#x2F;news&#x2F;s-expressions-in-javascript&#x2F;)
 * [Save chatGPT conversation as HTML file](https:&#x2F;&#x2F;dev.to&#x2F;jcubic&#x2F;save-chatgpt-as-html-file-dhh)
-* [Hack to Run React Application inside Service Worker](https:&#x2F;&#x2F;dev.to&#x2F;jcubic&#x2F;hack-to-run-react-application-inside-service-worker-4p2f)
 <!--END_SECTION:other-->
