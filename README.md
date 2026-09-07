@@ -70,6 +70,9 @@ As you can see in my profile I have a few Open Source projects and offer [Paid S
 
 ## [WikiZEIT](https://wikizeit.edu.pl/) Posts in Polish (🇵🇱)
 <!--START_SECTION:wikizeit-->
+* [Gdzie czytać o Wikipedii? Przegląd blogów i serwisów.](https:&#x2F;&#x2F;wikizeit.edu.pl&#x2F;blog&#x2F;blogi-o-wikipedii&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;feed)
+* [Piotr Konieczny z Niebezpiecznika miał zostać skasowany](https:&#x2F;&#x2F;wikizeit.edu.pl&#x2F;blog&#x2F;piotr-konieczny-skasowany&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;feed)
+* [Biblioteka Wikipedii, skąd brać źródła?](https:&#x2F;&#x2F;wikizeit.edu.pl&#x2F;blog&#x2F;biblioteka-wikipedii&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;feed)
 * [Jak poprawić widoczność marki osobistej w AI?](https:&#x2F;&#x2F;wikizeit.edu.pl&#x2F;blog&#x2F;widoczonosc-marki-osobistej-w-ai&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;feed)
 * [Projekt Koszulki „Jestem w Wikipedii”](https:&#x2F;&#x2F;wikizeit.edu.pl&#x2F;blog&#x2F;jestem-w-wikipedii&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;feed)
 * [Dokumentacja Eksponatów w Muzeum &#39;Domek Tkaczki&#39;](https:&#x2F;&#x2F;wikizeit.edu.pl&#x2F;blog&#x2F;dokumentacja-eksponatow-domku-tkaczki&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;feed)
@@ -77,9 +80,6 @@ As you can see in my profile I have a few Open Source projects and offer [Paid S
 * [Konkursy Fotograficzne Wikimedia Commons](https:&#x2F;&#x2F;wikizeit.edu.pl&#x2F;blog&#x2F;konkursy-fotograficzne&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;feed)
 * [Płatna Edycja Wikipedii w Polsce](https:&#x2F;&#x2F;wikizeit.edu.pl&#x2F;blog&#x2F;platne-edycje-wikipedii&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;feed)
 * [Czy Wikipedia jest płatna? Wikimedia Enterprise i SEO](https:&#x2F;&#x2F;wikizeit.edu.pl&#x2F;blog&#x2F;wikipedia-enterprise&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;feed)
-* [Baby Globe: czyli nowa maskotka Wikipedii](https:&#x2F;&#x2F;wikizeit.edu.pl&#x2F;blog&#x2F;nowa-maskotka-wikipedii&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;feed)
-* [Encyklopedyczność firm i osób: zasady polskiej Wikipedii?](https:&#x2F;&#x2F;wikizeit.edu.pl&#x2F;blog&#x2F;przyszlosc-zasad-encyklopedycznosci&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;feed)
-* [Kto w Polsce prowadzi szkolenia z edytowania Wikipedii?](https:&#x2F;&#x2F;wikizeit.edu.pl&#x2F;blog&#x2F;szkolenia-wikipedia&#x2F;?utm_source&#x3D;rss&amp;utm_medium&#x3D;feed)
 <!--END_SECTION:wikizeit-->
 
 ## My Other Article
