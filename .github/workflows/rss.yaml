@@ -13,20 +13,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: "Blog"
-        uses: JasonEtco/rss-to-readme@v1
+        uses: JasonEtco/rss-to-readme@v2
         with:
           feed-url: https://jakub.jankiewicz.org/blog/rss.xml
           readme-section: main
 
       - name: "WikiZEIT"
-        uses: JasonEtco/rss-to-readme@v1
+        uses: JasonEtco/rss-to-readme@v2
         with:
-          feed-url: https://jcubic.pl/wikizeit/feed.xml
+          feed-url: https://wikizeit.edu.pl/feed.xml
           max: 10
           readme-section: wikizeit
 
       - name: "My Other Writings"
-        uses: JasonEtco/rss-to-readme@v1
+        uses: JasonEtco/rss-to-readme@v2
         with:
            feed-url: https://jakub.jankiewicz.org/rss.xml
            max: 10
