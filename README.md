@@ -63,11 +63,11 @@ As you can see in my profile I have a few Open Source projects and offer [Paid S
 
 ## By [Personal Blog](https://jakub.jankiewicz.org/blog/) Posts
 <!--START_SECTION:main-->
+* [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
 * [The Importance of Questioning When Using AI Agents](https://jakub.jankiewicz.org/blog/questioning-ai/)
 * [My Advice to New Developers](https://jakub.jankiewicz.org/blog/programming-advice/)
 * [How to build zig book as PDF on Fedora?](https://jakub.jankiewicz.org/blog/zig-book-pdf/)
 * [How to Help Charities and Your Ego?](https://jakub.jankiewicz.org/blog/charity-bragging-page/)
-* [Documentaries for Programmers](https://jakub.jankiewicz.org/blog/programming-documentaries/)
 <!--END_SECTION:main-->
 
 ## [WikiZEIT](https://wikizeit.edu.pl/) Posts in Polish (🇵🇱)
